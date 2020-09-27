@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebaseConfig : {
-    apiKey: 'AIzaSyD4k1BpSt3r5pPS9KLA4_-4a6Lwe4_kLxY',
-    authDomain: 'dash-board-547fd.firebaseapp.com',
-    databaseURL: 'https://dash-board-547fd.firebaseio.com',
-    projectId: 'dash-board-547fd',
-    storageBucket: 'dash-board-547fd.appspot.com',
-    messagingSenderId: '145843126614',
-    appId: '1:145843126614:web:5d9dcd7e011c1aca7716f7',
-    measurementId: 'G-2MYYZ8SZ6R'
+    apiKey: '',
+    authDomain: '',
+    databaseURL: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: '',
+    appId: '',
+    measurementId: ''
   }
 };
 
